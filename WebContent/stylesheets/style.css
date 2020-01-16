@@ -1,0 +1,48 @@
+@charset "ISO-8859-1";
+
+.headerDiv {
+	display: inline-block;
+	width: 100%;
+	margin-top: 10px;
+	text-align: center;
+}
+
+.hausBild {
+	display: block;
+	float: left;
+	width: 35px;
+	height: 35px;
+}
+
+.cartBild {
+	display: block;
+	float: right;
+	display: inline-block;
+	width: 35px;
+	height: 35px;
+}
+
+.mainBild {
+	display: block;
+	margin: auto;
+	width: 150px;
+	height: 150px;
+}
+
+.mainText {
+	text-align: center;
+}
+
+.prodBild {
+	height: 400px;
+	width: 400px;
+}
+
+.meldungLeer {
+	margin:10px;
+}
+
+.warBild {
+	width: 150px;
+	height: 150px;
+}
