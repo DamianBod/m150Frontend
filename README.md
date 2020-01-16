@@ -3,4 +3,4 @@ Es konnten nicht alle Style-Angaben im CSS-File gemacht werden, da wir mit Seman
 
 
 @Marcel
-Eclipse -> import -> existing project ->run as server -> http://localhost:8080/m150Frontend/startseite.jsp
+Entzippen -> Eclipse -> import -> existing project ->run as server -> http://localhost:8080/m150Frontend/startseite.jsp
