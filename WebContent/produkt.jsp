@@ -35,16 +35,16 @@
 						out.print("</div>");
 						out.print("<div class='column'>");
 						out.print("<h2>Zweifel Paprika Chips</h2>");
-						out.print("<h4>Die klassischen und würzigen Paprika Chips von Zweifel.</h4>");
+						out.print("<h4>Die klassischen und wÃ¼rzigen Paprika Chips von Zweifel.</h4>");
 						out.print("<br> <br> <br>");
 						out.print("<h4>1 Packung</h4>");
 						out.print("<h4>4.50 CHF</h4>");
 						out.print("<br> <br>");
 						out.print("<input type='hidden' name='name' value='Zweifel Paprika Chips'>");
 						out.print(
-								"<input type='hidden' name='desc' value='Die klassischen und würzigen Paprika Chips von Zweifel.'>");
+								"<input type='hidden' name='desc' value='Die klassischen und wÃ¼rzigen Paprika Chips von Zweifel.'>");
 						out.print("<input type='hidden' name='preis' value='4.50'>");
-						out.print("<button class='ui button' type='submit'>Zum Warenkorb hinzufügen</button>");
+						out.print("<button class='ui button' type='submit'>Zum Warenkorb hinzufÃ¼gen</button>");
 						out.print("</div>");
 						out.print("</div>");
 					} else if (prod.equals("2")) {
@@ -62,7 +62,7 @@
 						out.print(
 								"<input type='hidden' name='desc' value='Die klassischen salzigen Nature Chips von Zweifel.'>");
 						out.print("<input type='hidden' name='preis' value='4.20'>");
-						out.print("<button class='ui button' type='submit'>Zum Warenkorb hinzufügen</button>");
+						out.print("<button class='ui button' type='submit'>Zum Warenkorb hinzufÃ¼gen</button>");
 						out.print("</div>");
 						out.print("</div>");
 					} else if (prod.equals("3")) {
@@ -79,7 +79,7 @@
 						out.print("<input type='hidden' name='name' value='Zweifel Salt&Vinegar Chips'>");
 						out.print("<input type='hidden' name='desc' value='Die neuen Salt&Vinegar Chips von Zweifel.'>");
 						out.print("<input type='hidden' name='preis' value='5.20'>");
-						out.print("<button class='ui button' type='submit'>Zum Warenkorb hinzufügen</button>");
+						out.print("<button class='ui button' type='submit'>Zum Warenkorb hinzufÃ¼gen</button>");
 						out.print("</div>");
 						out.print("</div>");
 					} else if (prod.equals("4")) {
@@ -96,7 +96,7 @@
 						out.print("<input type='hidden' name='name' value='Zweifel Provencale Chips'>");
 						out.print("<input type='hidden' name='desc' value='Die neuen Provencale Chips von Zweifel.'>");
 						out.print("<input type='hidden' name='preis' value='5.20'>");
-						out.print("<button class='ui button' type='submit'>Zum Warenkorb hinzufügen</button>");
+						out.print("<button class='ui button' type='submit'>Zum Warenkorb hinzufÃ¼gen</button>");
 						out.print("</div>");
 						out.print("</div>");
 					} else if (prod.equals("5")) {
@@ -113,7 +113,7 @@
 						out.print("<input type='hidden' name='name' value='Zweifel Moutarde Chips'>");
 						out.print("<input type='hidden' name='desc' value='Die neuen Moutarde Chips von Zweifel.'>");
 						out.print("<input type='hidden' name='preis' value='5.20'>");
-						out.print("<button class='ui button' type='submit'>Zum Warenkorb hinzufügen</button>");
+						out.print("<button class='ui button' type='submit'>Zum Warenkorb hinzufÃ¼gen</button>");
 						out.print("</div>");
 						out.print("</div>");
 					} else if (prod.equals("6")) {
@@ -130,12 +130,14 @@
 						out.print("<input type='hidden' name='name' value='Zweifel Piri-Piri Chips'>");
 						out.print("<input type='hidden' name='desc' value='Die neuen Piri-Piri von Zweifel.'>");
 						out.print("<input type='hidden' name='preis' value='5.20'>");
-						out.print("<button class='ui button' type='submit'>Zum Warenkorb hinzufügen</button>");
+						out.print("<button class='ui button' type='submit'>Zum Warenkorb hinzufÃ¼gen</button>");
 						out.print("</div>");
 						out.print("</div>");
 					}
 				%>
 			</div>
+			<footer class="ui center aligned container">Created by Damian
+			Bodmer, Marcel Plesky</footer>
 		</div>
 	</form>
 </body>
