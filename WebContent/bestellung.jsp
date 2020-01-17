@@ -83,6 +83,8 @@
 			Ihre Bestellung wurde abgeschickt.&nbsp;&nbsp;&nbsp; <a
 				href="startseite.jsp">Zurück zur Startseite</a>
 		</h2>
+		<footer class="ui center aligned container">Created by Damian
+			Bodmer, Marcel Plesky</footer>
 	</div>
 </body>
 </html>
