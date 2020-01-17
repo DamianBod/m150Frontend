@@ -99,7 +99,7 @@
 									+ "0 CHF</h3>");
 							out.print("</div>");
 							out.print("<div class='two wide right floated column'>");
-							out.print("<button class='ui button' type='submit' formaction='loschen.jsp' name='but' value='all'>Warenkorb löschen</button>");
+							out.print("<button class='ui button' type='submit' formaction='loschen.jsp' name='but' value='all'>Warenkorb lÃ¶schen</button>");
 							out.print("</div>");
 							out.print("<button class='ui button' type='submit' formaction='bestellung.jsp'>Bestellen</button>");
 							out.print("</div>");
@@ -108,6 +108,8 @@
 					}
 				%>
 			</div>
+			<footer class="ui center aligned container">Created by Damian
+			Bodmer, Marcel Plesky</footer>
 		</div>
 	</form>
 </body>
